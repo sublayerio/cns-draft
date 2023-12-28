@@ -45,8 +45,8 @@ export default function App() {
 {
 	"changes": {
 		"order_reference" : {
-			"prev" : "V23066",
-			"next" : "903272",
+			"prev" : "123",
+			"next" : "345",
 			"userId" : "user::john",
 			"supervisorId" : "user::sublayerio",
 			"operation" : "change",
@@ -56,7 +56,7 @@ export default function App() {
 		},
 		"name" : {
 			"prev" : null,
-			"next" : "903272 Volkswagen Polo G527JT",
+			"next" : "Test page",
 			"userId" : "user::john",
 			"supervisorId" : "user::sublayerio",
 			"operation" : "change",
